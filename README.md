@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Shipthenuts
-- 👀 I’m interested in Engineering
+- 👋 Hi, I’m @Shipthenuts aka Pähkel
+- 👀 I’m interested in Automotive, Engineering, Astronomy, 
 - 🌱 I’m currently learning Electronics
 - 💞️ I’m looking to collaborate on new valuable projects
-- 📫 How to reach me ... Squr369@gmail.com
+- 📫 How to reach me ... pm
 
 <!---
 Shipthenuts/Shipthenuts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
