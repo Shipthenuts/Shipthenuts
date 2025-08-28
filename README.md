@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shipthenuts aka Pähkel
 - 👀 I’m interested in Automotive, Engineering, Astronomy
-- 🌱 I’m currently learning Electronics
+- 🌱 I’m an Electronics Engineer
 - 💞️ I’m looking to collaborate on new valuable projects
 - 📫 How to reach me ... pm
 
