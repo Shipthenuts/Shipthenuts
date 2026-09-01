@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Shipthenuts aka Pähkel
-- 👀 I’m interested in Automotive, Engineering, Astronomy
-- 🌱 I’m an Electronics Engineer
-- 💞️ I’m looking to collaborate on new valuable projects
-- 📫 How to reach me ... pm
+👋 Hi, I’m Pähkel
+🔧 Electronics Engineer & Automotive Specialist
+🚗 Automotive electronics · CAN/OBD · ESP32 · Embedded systems
+⚡ Hardware design · PCB development · Diagnostics · Control systems
+🧠 Building Motira — connected vehicle diagnostics, history and telemetry
+🌌 Also interested in engineering, astronomy and experimental technology
 
 <!---
 Shipthenuts/Shipthenuts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
