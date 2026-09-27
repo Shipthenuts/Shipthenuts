@@ -4,7 +4,7 @@
 
 🚗 **Automotive electronics**
 - CAN / OBD
-- ESP32
+- Microcontrollers
 - Embedded systems
 - Vehicle diagnostics
 
